@@ -32,4 +32,4 @@ fazer perguntas e receber respostas sendo certas ou  erradas e o usuario ganha p
 ## 🚀 Como Executar  
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/seuusuario/nomedoprojeto.git
+https://github.com/MargottErik/licoes-hendersn1/blob/main/python%20quiz_gui.py
