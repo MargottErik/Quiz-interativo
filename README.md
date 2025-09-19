@@ -30,4 +30,4 @@ faz perguntas para o usuario para ver se ele acerta/erra as resposta do quiz
 ## 🚀 Como Executar  
 1. Clone este repositório:  
    ```bash
-  https://github.com/MargottErik/licoes-hendersn1/blob/main/python%20quiz_gui.py
+https://github.com/MargottErik/Quiz-interativo
