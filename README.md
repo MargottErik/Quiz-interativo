@@ -29,5 +29,4 @@ faz perguntas para o usuario para ver se ele acerta/erra as resposta do quiz
 
 ## 🚀 Como Executar  
 1. Clone este repositório:  
-   ```bash
-https://github.com/MargottErik/Quiz-interativo
+   ```bash https://github.com/MargottErik/Quiz-interativo
